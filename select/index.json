@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "embrace",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-08T16:52:53.743884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Embrace",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/01_Embrace_Low.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How to Embrace a Swamp Creature",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/02_How_to_Embrace_a_Swamp_Creature_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Embrace of the Endless Ocean",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/03_Embrace_of_the_Endless_Ocean_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Embrace Me (Wippenberg Remix)",
+      "artist": "Fragma",
+      "has_synced": false,
+      "path": "select/04_Embrace_Me_(Wippenberg_Remix)_Fragma.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "First Embrace",
+      "artist": "Bike For Three!",
+      "has_synced": true,
+      "path": "select/05_First_Embrace_Bike_For_Three!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Embrace",
+      "artist": "Canidas",
+      "has_synced": false,
+      "path": "select/06_Embrace_Canidas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Embrace",
+      "artist": "Chase & Status feat. White Lies",
+      "has_synced": true,
+      "path": "select/07_Embrace_Chase_&_Status_feat._White_Lies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Embrace (feat. White Lies)",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/08_Embrace_(feat._White_Lies)_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Embrace The Martian",
+      "artist": "Crookers",
+      "has_synced": false,
+      "path": "select/09_Embrace_The_Martian_Crookers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Embrace",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/10_Embrace_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Embrace",
+      "artist": "Northern Room",
+      "has_synced": false,
+      "path": "select/11_Last_Embrace_Northern_Room.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Bitter Suite 3: Embrace",
+      "artist": "The Dear Hunter",
+      "has_synced": false,
+      "path": "select/12_The_Bitter_Suite_3__Embrace_The_Dear_Hunter.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Summon Thee, Oh Father / Death Embrace Me",
+      "artist": "Ophthalamia",
+      "has_synced": false,
+      "path": "select/13_I_Summon_Thee,_Oh_Father___Death_Embrace_Me_Ophthalamia.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Summon Thee, Oh Father \u0000 Death Embrace Me",
+      "artist": "Ophthalamia",
+      "has_synced": false,
+      "path": "select/14_I_Summon_Thee,_Oh_Father_\u0000_Death_Embrace_Me_Ophthalamia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In Death's Embrace",
+      "artist": "Dimmu Borgir",
+      "has_synced": true,
+      "path": "select/15_In_Death's_Embrace_Dimmu_Borgir.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "In Death's Embrace",
+      "artist": "Dimmu Borgir",
+      "has_synced": false,
+      "path": "select/16_In_Death's_Embrace_Dimmu_Borgir.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dusk and Her Embrace",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/17_Dusk_and_Her_Embrace_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "embrace",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_embrace_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
